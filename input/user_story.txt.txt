@@ -1,0 +1,7 @@
+As a registered user, I should be able to log in to the SauceDemo application
+so that I can view products and add them to my cart.
+
+Acceptance Criteria:
+- Valid users can log in successfully
+- Invalid credentials show an error message
+- Locked-out users cannot log in
